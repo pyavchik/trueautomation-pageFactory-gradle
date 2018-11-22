@@ -1,0 +1,11 @@
+.idea/
+.gradle/
+build/
+gradle/
+gradlew
+gradlew.bat
+out/
+src/main/
+src/test/resources/
+trueautomation-java-gradle.iml
+trueautomation.json
