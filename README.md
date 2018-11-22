@@ -1,4 +1,4 @@
-# trueautomation-java-gradle
+# trueautomation-pageFactory-gradle
 
 You must have installed TrueAutomation client, JDK 8 or later.
 
